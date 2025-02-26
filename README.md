@@ -1,6 +1,6 @@
 # PEPPOL Codelist Repository
 
-This repository was created to support developers working with the PEPPOL Network for creating E-Invoices. Due to the lack of sufficient and accurate information provided by the EU in relation to new regulations, we aim to provide accessible PEPPOL codelists in CSV and MySQL formats.
+This repository was created to support developers working with the PEPPOL Network for creating E-Invoices.
 
 ## Contents
 
